@@ -1,0 +1,12 @@
+.addForm {
+    padding: 10px 10px 10px;
+}
+
+.addForm > label {
+    text-align: center;
+    padding: 5px 10px 10px;
+}
+
+.addForm > label > input {
+    margin-left: 10px;
+}

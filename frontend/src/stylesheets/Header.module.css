@@ -1,0 +1,48 @@
+.Header {
+    /*margin: 0;*/
+    padding: 0;
+    height: 50px;
+    list-style: none;
+    background-color: black;
+}
+
+.HeaderItem {
+    padding: 15px 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    align-content: center;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    color: #34495e;
+}
+
+.HeaderAuth {
+    float: right;
+    padding: 15px 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    align-content: center;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    color: #34495e;
+}
+
+.HeaderItem:hover {
+    background-color: whitesmoke;
+}
+
+.HeaderAuth:hover {
+    background-color: whitesmoke;
+}
+
+.HeaderItem:active {
+    background-color: #4CAF50;
+}
+
+.HeaderAuth:active {
+    background-color: #4CAF50;
+}
